@@ -1,6 +1,7 @@
 # French-English Collins Dictionary  for MacOS
 
 This is used for Dictionary.app on MacOS (Also works with shorcuts to open anywhere).
+Install file .dictionary and copy to `/Users/${Username}/Library/Dictionaries/`
 
 ### Example
 
